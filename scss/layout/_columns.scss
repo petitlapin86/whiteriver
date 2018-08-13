@@ -1,0 +1,9 @@
+.shops {
+  @extend %columns;
+  float: left;
+}
+
+.eat {
+  @extend %columns;
+  float: right;
+}

@@ -2,7 +2,7 @@
   @extend %centered;
   padding-top: 170px;
   height: 850px;
-  background: linear-gradient($color-prim, transparent 90%),
+  background: linear-gradient($color-prim, transparent 60%),
               linear-gradient(0deg, $color-body, transparent),
               $color-prim url('#{$path-img}/whiteriver.jpg') no-repeat center;
   background-size: cover;
